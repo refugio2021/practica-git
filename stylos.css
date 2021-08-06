@@ -29,6 +29,9 @@ body{
     border: 2px solid black;
     
 }
+a {
+    list-style: none;
+}
 .cabeza{
     background: #d5f6ec;
     border: 1px solid #999;
