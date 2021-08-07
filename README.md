@@ -1,2 +1,2 @@
 # practica-git
-practica de  iniciales de git
+practicas iniciales de git
